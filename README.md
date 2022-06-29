@@ -27,13 +27,13 @@ I graduated from Denison University in 2022 with majors Data analytics and Compu
 ## Projects
 
 #### Data-driven Advise on Dawes Arboretum's Future Operations Fall 2021  
-    * Provided data-driven advice to users-Dawes Arboretum to increase the number of tourists and the number of passes purchased, and conducted data cleaning and web scraping by Python.
-    * Used F-test to verify whether the temperature would affect the number of visited tourists,linear regression to simulate the impact of temperature changes on the number of visits by members and non-members, and tableau 
+   * Provided data-driven advice to users-Dawes Arboretum to increase the number of tourists and the number of passes purchased, and conducted data cleaning and web scraping by Python.  
+   * Used F-test to verify whether the temperature would affect the number of visited tourists,linear regression to simulate the impact of temperature changes on the number of visits by members and non-members, and tableau 
 
 #### Advanced Machine Learning methods to Do Analysis and Detection
-    * Conducted NLP topic analysis by using pre-defined dictionaries, and rumor detection by using Logistic Regression model to detect rumors in COVID-19 Twitter-related comments.
-    * Used Sentimental analysis for Airbnb data comments in Boston area. 
-    * Leveraged LDA-analysis to compare with the manual labeling, Sequence-to-Sequence model to do the text summarization of tweets. 
+   * Conducted NLP topic analysis by using pre-defined dictionaries, and rumor detection by using Logistic Regression model to detect rumors in COVID-19 Twitter-related comments.
+   * Used Sentimental analysis for Airbnb data comments in Boston area. 
+   * Leveraged LDA-analysis to compare with the manual labeling, Sequence-to-Sequence model to do the text summarization of tweets. 
     
 ## Current
 * Taking Break~~~~
