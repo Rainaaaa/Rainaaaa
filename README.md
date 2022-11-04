@@ -1,6 +1,6 @@
 # Chengjun Zhang (Rainaaaa) 👋
 
-I graduated from Denison University in 2022 with majors Data analytics and Computer Science. Right now, I'm an incoming student of MSSI program (Master of Science of Security Informatics) of Johns Hopkins University.
+I graduated from Denison University in 2022 with majors Data analytics and Computer Science. Right now, I'm a master student of Security Informatics of Johns Hopkins University.
 
 ## My academic interest includes but not limited to:
     1) Data Visualization
